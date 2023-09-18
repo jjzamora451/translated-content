@@ -53,7 +53,8 @@ body {
 
 {{Specifications}}
 
-## Compatibilidad con navegadores
+## Compatibilidad con navegado[takeout-20230916T225812Z-001.zip](https://github.com/mdn/translated-content/files/12654080/takeout-20230916T225812Z-001.zip)
+res
 
 {{Compat}}
 
