@@ -1,3 +1,4 @@
+[Scan 16 sept 23 09·50·49.pdf](https://github.com/mdn/translated-content/files/12654096/Scan.16.sept.23.09.50.49.pdf)
 ---
 title: var()
 slug: Web/CSS/var
